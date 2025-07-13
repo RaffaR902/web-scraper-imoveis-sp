@@ -13,10 +13,10 @@
     <a href="#tecnologiasUtilizadas">Tecnologias Utilizadas</a> |
     <a href="#estruturaCsv">Estrutura do CSV</a> |
     <a href="#configuracoes">Configurações</a> |
-    <a href="definicaoUrl">Definição da URl</a> |
-    <a href="avisos">Avisos</a> |
-    <a href="instalacao">Instalação</a> |
-    <a href="execucao">Execução</a>
+    <a href="#definicaoUrl">Definição da URL</a> |
+    <a href="#avisos">Avisos</a> |
+    <a href="#instalacao">Instalação</a> |
+    <a href="#execucao">Execução</a>
 </p>
 
 <p align="center">Este projeto realiza a extração automatizada (web scraping) de anúncios de imóveis do site Nova São Paulo Imóveis(https://www.novasaopaulo.com.br/).</p>
