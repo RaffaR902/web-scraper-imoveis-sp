@@ -19,13 +19,13 @@
     <a href="execucao">Execução</a>
 </p>
 
-<p align="center">Este projeto realiza a extração automatizada (web scraping) de anúncios de imóveis do site [Nova São Paulo Imóveis](https://www.novasaopaulo.com.br/).</p>
+<p align="center">Este projeto realiza a extração automatizada (web scraping) de anúncios de imóveis do site Nova São Paulo Imóveis(https://www.novasaopaulo.com.br/).</p>
 
 ---
 
 <h2 id="funcionalidades">Funcionalidades</h2>
 
-- Coleta dados de imóveis a partir de páginas de listagem no site Nova São Paulo (url, tipo, bairro, cidade, preço, área, quartos, suítes, vagas, etc).
+- Coleta dados de imóveis a partir de páginas de listagem no site Nova São Paulo (url, tipo, bairro, cidade, objetivo, preço, área útil, quartos, suítes e vagas de garagem).
 - Suporte para coletar imóveis com diferentes tipos, como apartamentos, casas, sobrados, terrenos, etc.
 - Detecção de tipo de imóvel com base em título.
 - Suporte para detecção de imóveis duplicados (por URL).
@@ -79,7 +79,7 @@ ARQUIVO_CSV = 'imoveis.csv'  # Nome do arquivo de saída
 
 ---
 
-<h2 id="definicaoUrl">Definição da URl</h2>
+<h2 id="definicaoUrl">Definição da URL</h2>
 
 Você pode escolher qual tipo de imóvel deseja coletar:
 
