@@ -112,9 +112,7 @@ git clone https://github.com/RaffaR902/web-scraper-imoveis-sp
 cd web-scraper-imoveis-sp
 ```
 
-2. Crie um ambiente virtual (opcional).
-
-3. Instale as dependências:
+2. Instale as dependências:
 
 ```bash
 pip install -r requirements.txt

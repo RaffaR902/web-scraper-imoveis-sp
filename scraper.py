@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Configurações
-URL_BASE = 'https://www.novasaopaulo.com.br/imoveis?home=home&opcao=comprar&page={}'
+URL_BASE = '' 
 ARQUIVO_CSV = 'imoveis.csv'
 DELAY = 10  # Tempo de espera entre requisições (respeitando o robots.txt do site)
 LIMITE_NOVOS_IMOVEIS = 10000 
